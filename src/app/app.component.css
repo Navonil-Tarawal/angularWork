@@ -1,0 +1,14 @@
+img{
+    height: 40vh;
+    width: auto;
+}
+.circle{
+    border:5px solid black;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: aquamarine;
+}
+.available{
+    background-color: green;
+}

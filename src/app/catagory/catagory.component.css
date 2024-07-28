@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cata{
+    height: 10vh;
+    width: 100%;
+    background-color: beige;
+}
